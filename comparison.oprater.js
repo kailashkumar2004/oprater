@@ -48,13 +48,3 @@
 // var a=88
 // var b=88
 // console.log(a<=b)
-
-var a=55
-var b=44
-console.log(a==b)
-console.log(a===b)
-console.log(a!=b)
-console.log(a>b)
-console.log(a<b)
-console.log(a>=b)
-console.log(a<=b)

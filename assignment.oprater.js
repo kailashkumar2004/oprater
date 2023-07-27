@@ -18,12 +18,5 @@
 // console.log(a%=b)
 // console.log(a**=b)
 
-var a=33
-var b=22
+a=2**3
 console.log(a)
-console.log(a+=b)
-console.log(a-=b)
-console.log(a*=b)
-console.log(a/=b)
-console.log(a%=b)
-console.log(a**=b)
